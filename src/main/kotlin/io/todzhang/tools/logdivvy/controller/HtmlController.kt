@@ -1,4 +1,4 @@
-package io.todzhang.tools.logdivvy
+package io.todzhang.tools.logdivvy.controller
 
 import org.springframework.stereotype.Controller
 import org.springframework.ui.Model
